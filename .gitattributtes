@@ -1,0 +1,16 @@
+*.swift linguist-detectable=true
+*.ts linguist-detectable=false
+*.java linguist-detectable=false
+*.javascript linguist-detectable=false
+*.css linguist-detectable=false
+*.csharp linguist-detectable=false
+*.js linguist-detectable=false  
+*.html linguist-detectable=false  
+*.xml linguist-detectable=false    
+
+* text=auto
+*.js linguist-language=swift
+*.css linguist-language=swift
+*.html linguist-language=swift
+*.ts linguist-language=swift
+*.javascript linguist-language=swift
